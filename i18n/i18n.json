@@ -1,0 +1,33 @@
+
+{
+  "title": "Francisco Meglia",
+  "subtitle": "Frontend Developer 💻",
+  "about_me_title": "About me",
+  "about_me_info": "Hello! I'm Francisco Meglia, a young Frontend developer based in Argentina. I'm currently working full-time at the DGSI and exploring mobile development with SwiftUI.",
+  "tech_info": [
+      {"name": "React" , "imgPath": "React"},
+      {"name": "JavaScript" , "imgPath": "JavaScript"},
+      {"name": "TypeScript" , "imgPath": "TypeScript"},
+      {"name": "Tailwind" , "imgPath": "Tailwind"}
+  ],
+  "experience_title": "Experience",
+  "experience_info": [
+      {"title": "Freelance Developer" , "description": "I collaborated on different types of freelance projects, always working from the Frontend side, mostly with React and JavaScript.", "imgPath": "JobIcon"},
+      {"title": "Frontend Developer DGSI" , "description": "In this job I play the role of Frontend Developer, I collaborated in the creation of different types of internal and external systems of the organization, among them are different types of landing pages with React & Tailwind CSS, a mobile application with React Native and an invoicing system connected to ARCA's web services with React & Tailwind CSS.", "imgPath": "JobIcon"}],
+  "projects_title": "Projects",
+  "projects_info": [
+      {"name": "Argentina Gob Ar Clone UTN" ,"description": "This is a clone of the original page of Argentina.gob.ar, I used it as an example to demonstrate my skills when developing from a design. I carried out this project for the first exam of the first section of the diploma in Full Stack Web Programming at the UTN.", "repoLink": "https://github.com/FranciscoMeglia/Proyecto-1-UTN" , "liveLink": "https://proyecto-1-utn.vercel.app/" , "imgPath": "ArgentinaGobAr"},
+      {"name": "Rick Morty UTN" , "description": "This is a Rick and Morty web application, which consumes an API and has different filters to find specific characters. I carried out this project for the final exam of the first section of the diploma in Full Stack Web Programming at the UTN.", "repoLink": "https://github.com/FranciscoMeglia/Rick-Morty-UTN" , "liveLink": "https://rick-morty-utn.vercel.app/" ,"imgPath": "RickMorty"},
+      {"name": "Nick Ecommerce" , "description": "I did this project with a colleague from the Diploma in Full Stack Programming at the UTN. It is an ecommerce from the Nike brand which has all the functionalities of a traditional ecommerce (add and remove products from the cart, edit the cart, filters, among others).","repoLink": "https://github.com/FranciscoMeglia/Nike-Remoto" , "liveLink": "https://nike-remoto.vercel.app/" , "imgPath": "Nike"}
+  ],
+  "contact_title": "Contact",
+  "contact_subtitle": "Feel free to contact me",
+  "contact_sources": [
+      {"name": "Buenos Aires , Argentina" , "imgPath": "Location"},
+      {"name": "megliafrancisco@gmail.com" , "imgPath": "Email"},
+      {"name": "fran_meglia" , "imgPath": "Instagram"},
+      {"name": "Francisco Meglia" , "imgPath": "Linkedin"},
+      {"name": "FranciscoMeglia" , "imgPath": "GitHub"}
+  ],
+}
+
